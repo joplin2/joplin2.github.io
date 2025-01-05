@@ -1,4 +1,4 @@
-# Project **My own Website**
+# Project: **My own Website**
 
 ## 🌐 Live Demo
 [View Live Site](https://joplin2.github.io/)
